@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ Write\ a\ description\ of\ class\ character\ here.\n\ \n\ @KatieXing\ &\ AmyKim\n\ @Version1\ may4\ \n
+comment1.params=myWorld
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ character\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=direction
+comment3.target=void\ run(java.lang.String)
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ jump()
+comment6.params=
+comment6.target=void\ fall()
+comment6.text=\n\ fall()\ will\ be\ called\ whenever\ character\ is\ in\ the\ air.\ Decreases\ the\ deltaY\ by\ 1,\ creating\n\ gravity.\n
+comment7.params=
+comment7.target=void\ move()
+comment8.params=
+comment8.target=void\ hititem()
+comment9.params=
+comment9.target=void\ getCommand()
+numComments=10
